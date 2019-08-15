@@ -1,1 +1,3 @@
-# Route-Planner
+# Route Planner - Python A* Alorithm
+
+In this project, I built a route-planning algorithm like the one used in Google Maps to calculate the shortest path between two points on a map utilizing the A* algorithm.  Utilizes a Network Graph serialized in a pickle file to represent two different maps.  I designed several tests to check that the algorithm comes up with the optimal solution in the quickest time possible.
